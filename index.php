@@ -7,7 +7,7 @@
 		<!-- Compiled and minified JavaScript -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-		<title>Sudoku!</title>
+		<title>Comment and Share!</title>
 	</head>
 	<body bgcolor="#212F3D">
 	<nav style = "color: #1ABC9C;">
